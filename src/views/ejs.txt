@@ -1,0 +1,7 @@
+<% controle de fluxo (if, for... ) %>
+
+<%= imprime liretalmente tudo que esta no escopo %>
+
+<%- imprime o que esta no escopo %>
+
+<%- include('CAMINHO/ARQUIVO'); %>
